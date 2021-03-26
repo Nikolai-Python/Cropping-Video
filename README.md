@@ -1,4 +1,4 @@
-# Web_Cam
+# Cropping-Video
 Solution for cutting frames from video
 
 -Python file
